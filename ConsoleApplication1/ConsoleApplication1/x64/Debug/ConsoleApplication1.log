@@ -1,0 +1,4 @@
+﻿  MonthlyReport.cpp
+D:\C++\Patterns\ConsoleApplication1\ConsoleApplication1\MonthlyReport.cpp(21,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\C++\Patterns\ConsoleApplication1\ConsoleApplication1\MonthlyReport.cpp(32,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> D:\C++\Patterns\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
